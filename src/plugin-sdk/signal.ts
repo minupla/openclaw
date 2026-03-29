@@ -71,7 +71,6 @@ export {
   createDefaultChannelRuntimeState,
 } from "./status-helpers.js";
 
-} from "./signal-surface.js";
 export { isSignalSenderAllowed } from "./signal-surface.js";
 export type { SignalSender } from "./signal-surface.js";
 export { monitorSignalProvider } from "./signal-surface.js";
